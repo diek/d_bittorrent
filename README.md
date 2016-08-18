@@ -1,5 +1,5 @@
 # 
-# d_bittorrent: bloggy_project
+# d_bittorrent: a bittorrent client
 
 TODO: Write a project description
 
@@ -17,7 +17,7 @@ TODO: Write usage instructions
 TODO: Write history
 
 ## Credits: 
-@mayhew
+thanks to mayhewj @ github for getting me started
 
 
 ## License: None
